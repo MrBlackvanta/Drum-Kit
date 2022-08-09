@@ -16,7 +16,7 @@ html {
 
 body {
   font-family: sans-serif;
-  background: url("../images/background.jpg") bottom center;
+  background: url("../images/background.webp") bottom center;
   background-size: cover;
   min-height: 100vh;
   display: flex;
